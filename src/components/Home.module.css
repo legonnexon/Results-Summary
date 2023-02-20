@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
+
+.container {
+    display: flex;
+    width: 740px;
+    height: 515px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 12px;
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+
+.YourResult {
+    padding: 15px;
+    text-align: center;
+    background: linear-gradient(180deg, hsla(252, 100%, 67%, 100%) 0%, hsla(241, 81%, 54%, 100%) 100%);    
+    border-radius: 30px;
+    width: 50%;
+    height: 485px;
+}
+
+.titleYourResult {
+    font-size: 26px;
+    color: hsl(241, 100%, 89%);
+    margin-bottom: 40px;
+}
+
+.circle {
+    display: inline-block;
+    border-radius: 100%;
+    padding: 50px 60px;
+    background: linear-gradient(180deg, hsla(256, 72%, 46%, 1) 0%, hsla(241, 72%, 46%, 0));    
+    color: white;
+    margin-bottom: 20px;
+}
+
+.circle > * {
+    margin: 0;
+}
+
+.recordNumber {
+    font-size: 62px;
+}
+
+.totalRecord {
+    color: hsla(241, 100%, 89%, 50%);
+}
+
+.Great {
+    color: white;
+    font-size: 32px;
+}
+
+.paragrafo {
+    color: hsl(241, 100%, 89%);
+    padding: 0 70px;
+}
+
+.Summary {
+    text-align: left;
+    border-radius: 30px;
+    max-width: 270px;
+    width: 50%;
+    padding: 10px 50px;
+}
+
+.titleSummary {
+    font-size: 24px;
+    font-weight: 700;
+    color: hsl(224, 30%, 27%);
+}
+
+.reaction, .memory, .verbal, .visual {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.reaction {
+    color: hsl(0, 100%, 67%);
+    background-color: hsla(0, 100%, 67%, 10%);
+}
+
+.memory {
+    color: hsl(39, 100%, 56%);
+    background-color: hsla(39, 100%, 56%, 10%);
+}
+
+.verbal {
+    color: hsl(166, 100%, 37%);
+    background-color: hsl(166, 100%, 37%, 10%);
+}
+
+.visual {
+    color: hsl(234, 85%, 45%);
+    background-color: hsl(234, 85%, 45%, 10%);
+}
+
+.flex {
+    display: flex;
+    gap: 8px;
+}
+
+.score {
+    color: hsl(224, 30%, 27%);
+}
+
+.saleBlue {
+    color: hsla(224, 30%, 27%, 50%);
+}
+
+.continue {
+    width: 100%;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    padding: 15px 0px;
+    background-color: hsl(224, 30%, 27%);
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.continue:hover {
+    background: linear-gradient(180deg, hsla(252, 100%, 67%, 100%) 0%, hsla(241, 81%, 54%, 100%) 100%);    
+}
