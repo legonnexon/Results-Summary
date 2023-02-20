@@ -56,4 +56,4 @@ I want make mobile version
 
 - Website - [Github Profile](https://github.com/legonnexon)
 - Frontend Mentor - [@legonnexon](https://www.frontendmentor.io/profile/legonnexon)
-- Twitter - [@lobinhojbl](https://www.instagram.com/lobinhojbl/)
+- Instagram - [@lobinhojbl](https://www.instagram.com/lobinhojbl/)
