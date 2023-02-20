@@ -2,6 +2,11 @@
 
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
+
+# Run Vite Site
+
+### npm run dev
+
 ## Table of contents
 
 - [Overview](#overview)
